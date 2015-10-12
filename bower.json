@@ -1,0 +1,19 @@
+{
+  "name": "threejs-plus-extras",
+  "version": "1.0.0",
+  "homepage": "https://github.com/luciopaiva/threejs-plus-extras",
+  "authors": [
+    "Lucio Paiva <luciopaiva@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
